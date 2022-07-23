@@ -26,7 +26,7 @@ The subjects concerned can measure the electromagnetic fields around them and se
 ## You Will see in this project
 <p align="center">
   <img src="figures/data.PNG" width="400" alt="data">
-  <img src="figures/univariate analysis-categorical variable.PNG" width="400" alt="univariate analysis-categorical variable">
+  <img src="figures/univariate analysis-categorical variable.PNG" width="200" alt="univariate analysis-categorical variable">
   <img src="figures/univariate analysis- numerical variable.PNG" width="400" alt="univariate analysis- numerical variable">
   <img src="figures/bivariate analysis.PNG" width="400" alt="bivariate analysis">
 </p>
