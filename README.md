@@ -24,6 +24,7 @@ worries and suffering are really because of these waves.
 The subjects concerned can measure the electromagnetic fields around them and see if they meet international standards: those of the International Commission on Non-Ionizing Radiation Protection (ICNIRP) for example, consult their doctor and of course try my project even if it is not completely perfect since the database involved is not big enough.
 
 ## You Will see in this project
+
 <p align="center">
   <img src="figures/data.PNG" width="400" alt="data">
   <img src="figures/univariate analysis-categorical variable.PNG" width="300" alt="univariate analysis-categorical variable">
@@ -32,7 +33,10 @@ The subjects concerned can measure the electromagnetic fields around them and se
 </p>
 
 
+
+
 Concerning the web application, you will get something like :
+
 
 <p align="center">
   <img src="figures/Web App.png" width="400" alt="Web App">
